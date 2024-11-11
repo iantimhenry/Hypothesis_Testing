@@ -1,4 +1,4 @@
 # Hypothesis testing and ANOVA
 
-This is an assessment task that will test both statistical knowledge and technical skills used in this unit. 
+This is an assessment task that will test both statistical knowledge and technical skills used in this unit.
 
