@@ -1,0 +1,23 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# STAT2170/6180 Assignment, 2022 S2
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+This is an assessment task that will test both statistical knowledge and technical skills used in this unit. 
+
+The statistical knowledge will be tested by two questions in the .Rmd document called *Assignment-Ian_Timothy_Henry_Suarez_47519843*
+
+The technical skills will be tested by the correct use of two tools: RMarkdown and GitHub 
